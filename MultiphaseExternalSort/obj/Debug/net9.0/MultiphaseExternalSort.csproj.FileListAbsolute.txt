@@ -1,0 +1,14 @@
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\bin\Debug\net9.0\MultiphaseExternalSort.exe
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\bin\Debug\net9.0\MultiphaseExternalSort.deps.json
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\bin\Debug\net9.0\MultiphaseExternalSort.runtimeconfig.json
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\bin\Debug\net9.0\MultiphaseExternalSort.dll
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\bin\Debug\net9.0\MultiphaseExternalSort.pdb
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\obj\Debug\net9.0\MultiphaseExternalSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\obj\Debug\net9.0\MultiphaseExternalSort.AssemblyInfoInputs.cache
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\obj\Debug\net9.0\MultiphaseExternalSort.AssemblyInfo.cs
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\obj\Debug\net9.0\MultiphaseExternalSort.csproj.CoreCompileInputs.cache
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\obj\Debug\net9.0\MultiphaseExternalSort.dll
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\obj\Debug\net9.0\refint\MultiphaseExternalSort.dll
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\obj\Debug\net9.0\MultiphaseExternalSort.pdb
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\obj\Debug\net9.0\MultiphaseExternalSort.genruntimeconfig.cache
+C:\Users\Techniker\source\repos\MultiphaseExternalSort\MultiphaseExternalSort\obj\Debug\net9.0\ref\MultiphaseExternalSort.dll
